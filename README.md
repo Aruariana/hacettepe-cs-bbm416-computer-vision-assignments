@@ -1,1 +1,1 @@
-# hacettepe-cs-bbm416-computer-vision-assignments
+These are the assignments that I completed during my sixth semester in Hacettepe CS, in the BBM416 class's lab. BBM416 is a computer vision course. You can find the assignment PDFs in the project folders for a better understanding. PA1 and PA2 have its seperate reports while PA3 has a report inside the ipynb file as markdowns.
